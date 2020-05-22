@@ -1,0 +1,11 @@
+/* 입력한 값이 valid일때 */
+
+.input-group .ng-valid.ng-dirty {
+  border: 1px solid green;
+}
+
+/* 입력한 값이 invalid한 값일떄 */
+
+.input-group .ng-invalid.ng-dirty {
+  border: 1px solid red;
+}
